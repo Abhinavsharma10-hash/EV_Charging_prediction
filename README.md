@@ -112,7 +112,7 @@ These values demonstrate strong predictive accuracy and minimal variance from re
 
 **Developer:** [Gundu Abhinav]  
 **Email:** [gundu.abhinav.2005@gmail.com/ abhinavsharmaa200510@gmail.com]  
-GitHub:[github.com/yourusername]()
+GitHub:[github.com/yourusername](https://github.com/Abhinavsharma10-hash/EV_Charging_prediction.git / Gundu-Abhinav-Sharma)
 
 ---
 
